@@ -1,0 +1,165 @@
+[
+    {
+        "id": 0,
+        "imageUrl": "https://kcdn.tanuki.ru/images/1/gWf8acz3GQszxD9JQF_I0nJRbxCBgDuP.jpg",
+        "name": "Филадельфия",
+        "types": [
+            0,
+            1
+        ],
+        "sizes": [
+            4,
+            6,
+            8
+        ],
+        "price": 655,
+        "category": 0,
+        "rating": 4
+    },
+    {
+        "id": 1,
+        "imageUrl": "https://kcdn.tanuki.ru/images/1/WCDi_Cofc86zTEdU_jI5vj71K7P5k5Kn.jpg",
+        "name": "Филадельфия лайт",
+        "types": [
+            0
+        ],
+        "sizes": [
+            4,
+            8
+        ],
+        "price": 475,
+        "category": 1,
+        "rating": 6
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://kcdn.tanuki.ru/images/1/k8i-pgcWbDhqJGqORRogZffG7nRUemlU.jpg",
+        "name": "Калифорния",
+        "types": [
+            0
+        ],
+        "sizes": [
+            4,
+            8
+        ],
+        "price": 560,
+        "category": 1,
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://kcdn.tanuki.ru/images/1/eOp18mvq_qu2kBiTt9MPAzE74A7-LK8j.jpg",
+        "name": "Запеченный краб",
+        "types": [
+            1
+        ],
+        "sizes": [
+            4,
+            6,
+            8
+        ],
+        "price": 505,
+        "category": 2,
+        "rating": 2
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://kcdn.tanuki.ru/images/1/WNqvSmTJIgqAx1CfWCHO8TUxRA6hSGHf.jpg",
+        "name": "Манго грин",
+        "types": [
+            0,
+            1
+        ],
+        "sizes": [
+            4,
+            6,
+            8
+        ],
+        "price": 475,
+        "category": 3,
+        "rating": 8
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://kcdn.tanuki.ru/images/1/N8spFkK05mugOoEIO0Q-dz0UWRMvolNn.jpg",
+        "name": "Эби блючиз",
+        "types": [
+            0
+        ],
+        "sizes": [
+            6,
+            8
+        ],
+        "price": 580,
+        "category": 2,
+        "rating": 2
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://kcdn.tanuki.ru/images/1/WNqvSmTJIgqAx1CfWCHO8TUxRA6hSGHf.jpg",
+        "name": "Карааге шримп",
+        "types": [
+            0,
+            1
+        ],
+        "sizes": [
+            4,
+            6,
+            8
+        ],
+        "price": 430,
+        "category": 1,
+        "rating": 9
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://kcdn.tanuki.ru/images/1/bBSz35iUmeSslHu7X1GcXJh3B3AEz-m_.jpg",
+        "name": "Хироши хот",
+        "types": [
+            0,
+            1
+        ],
+        "sizes": [
+            4,
+            6,
+            8
+        ],
+        "price": 475,
+        "category": 4,
+        "rating": 10
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://kcdn.tanuki.ru/images/1/G9gS4P7q1GTMAqg86kh2mJ4z_aO5G1tR.jpg",
+        "name": "Одзу",
+        "types": [
+            0,
+            1
+        ],
+        "sizes": [
+            4,
+            6,
+            8
+        ],
+        "price": 485,
+        "category": 5,
+        "rating": 10
+    },
+    {
+        "id": 9,
+        "imageUrl": "https://kcdn.tanuki.ru/images/1/USLqrJl9jdD6CC9S1ABOggB1ORpiXmIB.jpg",
+        "name": "Юмико 🌱",
+        "types": [
+            0,
+            1
+        ],
+        "sizes": [
+            4,
+            6,
+            8
+        ],
+        "price": 550,
+        "category": 5,
+        "rating": 7
+    }
+]
